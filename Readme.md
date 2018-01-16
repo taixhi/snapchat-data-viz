@@ -20,7 +20,7 @@ Python 3.6.0 or higher
 ```
 git clone https://github.com/tkato0909/snapchat-data-viz.git
 ```
-2. Download your snapchat archive data from [Snapchat]https://accounts.snapchat.com, submit request through "My Data" and wait for a few hours for a response.
+2. Download your snapchat archive data from [Snapchat](https://accounts.snapchat.com), submit request through "My Data" and wait for a few hours for a response.
 3. Once you have the zip downloaded, unarchive it and move the content to `mydata`
 4. Set up the python environment by installing the dependencies
 ```
@@ -32,7 +32,7 @@ python3 main.py
 ```
 
 What you should get:
-![](https://github.com/)
+![](https://github.com/tkato0909/snapchat-data-viz/blob/master/Document/example.jpg)
 ## Running the tests
 
 Explain how to run the automated tests for this system
